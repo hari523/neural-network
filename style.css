@@ -1,0 +1,15 @@
+body
+{
+background:aquamarine;
+color:rgb(4, 97, 16);
+}
+.heading
+{
+    font-size:22px;
+    width:80px;
+}
+.name_of_objects,#result_object_name,#result_object_accuracy
+{
+color:brown;
+
+}
